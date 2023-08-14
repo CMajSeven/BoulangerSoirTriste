@@ -2,29 +2,142 @@ General
 -------
 78: Fermata placed either on rest after best or on rest on beat depending on player. Replacing with caesura after first eighth note
 78: Based on the phrasing, recasting this as a 1+3 measure for beaming and rests
-
 83: librement is written like a tempo marking, but is only in the English Horn part
+
 Flutes
 ------
 19: p only in FS
+19-22: Slur extends to 22 in part only, ends before 22 in FS
+34: pp only in part
+37-38: Dynamics and legato marks only in part. Decrescendo only after barline, moving to beat 3 of 37.
+47: Dynamics only in part
+47: * Part has run start a sixteenth note early. Beat 3 is plain 32nd notes to compensate.
+48-49: Crescendo is 48.2-49.1.5 in part, 49-49.2.5 in FS
+50: Part has A6 and F6, FS has F6 and D6. Part is likely right.
+50: ff in part, f in FS
+59: mf only in part
+61: * Run starts on the beat in part (plain 32nd notes)
+65-73: Flute 2 part is crossed out in part and FS
+67: Flute 2 has 1 slur over the whole measure in FS
+67, 69: Flute 2 dynamics only in part
+76: No accents in part
+115-123: Flute 2 part only in part
+126: f in part, mf in FS
+146: Decrescendo only in part
+147: Decrescendo is at 148 in part
+156: Slur is cut here in part
+169: Crescendo only in part
+171: mf only in part
+177: These eighth notes crossed out in part
 
 Oboes
 -----
-49: Oboe 1 E5 crossed out for C#6
-50: Oboe 2 part missing in FS
+3-7: Oboe 1 part crossed out in FS and part
+13: Crescendo starts at beat 1 in part
+14: No tie in FS
+14: Decrescendo only in part
+16-17: Crescendo only in part
+16-21: Slurs only in part
+20.3.5: flat on E in FS, contradicting violas and part
+23.3: Decrescendo without accent only part. Perhaps accent confused for decrescendo
+24.3: p in part crossed out with mf, which is the already applied dynamic
+27: Decrescendo extends over whole measure in part
+46, 48: Dynamics only in part
+49: * Oboe 1 E5 crossed out for C#6
+50: * Oboe 2 part missing in FS
+60: Decrescendo only in part
+66: p in FS, pp subito in part
+66-73: Oboe 2 part crossed out in FS and part
+69: Decrescendo only in FS
+70-72: Hairpins in 70 and 71 in FS only. Part has cresc... over these 3 measures with hairpin at 72.
+74-77: Part has crescendo hairpins at 74-75.2.5 and 76-76.3 instead of cresc...
+78: ff only in FS
+84: f only in part.
+85: Crescendo from [1-2] in part, [2-3] in FS
+92: p in FS, mfp in part
+96-86: Dynamics only in part
+126: mf in FS, f in part
+140-142: Slur starts at 141 in part
+146: p in FS, ppp in part
+147: sf in FS, ppsf in part
+153: p only in part
+153-156: legato marks only in part
+157-160: cresc... starts at 159 in part
+169: pp only in part
+171: pp only in part
+174-175: sf and pp only in part
+176: ppp in part, 3rd p added afterwards (pp in FS)
+177: Eighth note crossed out in part and FS
 
 English Horn
 ------------
+16-17: Crescendo is only over 16.2-.3 in FS
+22: "soutenu" only in part
+39: Decrescendo only in FS
+49: Crescendo only in part, extending over whole measure
+56: Decrescendo only in part
+63: Crescendo over all 5 eighth notes in part
+65-67: Part crossed out in FS and not present in part. Crescendo in 66 copied from flute and oboe parts
+68, 70: mp and mf only in part
+70-71: Slur only in FS
+72-73: Dynamics only in part
+80-81: Decrescendo starts in 80 in part, after barline in FS
+81.2: Dotted quarter in part, quarter in part
+83: mf only in part
+96.3: Natural on f missing in FS
+98: pp only in part
+126: Hairpins only in part
 126.4.5: l.v. tie in FS, tie into eighth note of next measure in part
+146-147: Crescendo hairpins about a half-beat earlier and decrescendo hairpins about a half-beat later in FS
+149.2: These four eighth notes crossed out in FS and not present in part
+164-165: Decrescendo only at 165 in part
+167: Tie with last triplet missing in FS
+168: mp only in part
+175: pp only in part
 
 Clarinets
 ---------
+3: mf in addition to p in part (just p in FS)
+3-14: * 1 solo in FS, a 2 in part
+4.1.5, 5.1.5: Legato marks only in part
+20-25.1: Clarinet 1 part crossed out in FS. It is a cue for bass clarinet (octave lower) in part.
+23-24: Clarinet 2 part crossed out in FS only
 26: Quarter note F crossed out in FS (slur extends over this). Rest in part.
+30: mf in part, p in FS
+30-33: Slur split at 31.1 and 31.3 in part. Legato marks on first 3 notes in 30, accent on 31
+30-38: * 1 solo in FS, a 2 in part
+34: f only in part
+37: Decrescendo starts a beat earlier in part. p only in part
+50: Adding ff from other parts
+57.3.5: Flat only in part
+62: ff in part, f in FS. Crescendo only in part
+65: sf only in part
+71-74: cresc... only in part
 74-77: Clarinet 2 copy slurring/accents from other similar parts.
+78: "sec" only in part. Adding ff sec from other parts
+86: "solo" only in part
+87-88: Decrescendo only at 88 in part
+92: mf in part, p in FS. Crescendo starts at 92.2 in part, just before 93 in FS.
+114: p in FS, mf in part
+119: f only in part
+121-: Decrescendo starts at beat 1 in part, beat 3 in FS
+127: * Clarinet 2 is a 2 with clarinet 1 in part (no eighth note at start)
+127: Natural on trill only in part
+127: Clarinet 1 f only in part
+141: cresc... only in FS
+144: f only in part at 3.5. Moving to 2 to align with bass clarinet
+145: Faded decrescendo only in part
+153-156: * Accent with "mf bien accentué" in part. No accents with p and cresc... at 155-156 in FS
+166: Decrescendo only in part
+168.2: pp only in part
+168.2.5: Accents added afterwards in part
+170: p in part, sf in FS. Accent on Clarinet 1 only in part
+176: ppp in part, pp in FS.
 
 Bass Clarinet
 -------------
 Originally written in A transposing down a minor third
+3: mf and mp in part, p in FS
 11-12: No decrescendo, copying from Clarinet
 
 Bassoons 1 and 2
