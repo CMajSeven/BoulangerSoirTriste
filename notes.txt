@@ -15,10 +15,10 @@ Flutes
 37: Hairpins, legato marks only in part
 47: *The run begins a sixteenth note earlier in part at beat 2.25. This allows a C# on beat 3 to align with the other parts.
 47-48: Dynamics only in part
-50: **Part has F6+A6. FS has D6+F6. ff in part. f in FS.
+50: **Part has F6+A6. FS has D6+F6. ff in part. f in FS. OSSIA PART ONLY
 59: mf only in part
 61: *The run starts on beat 3 in part.
-65-73: *The flute 2 part is crossed out in part and FS.
+65-73: **The flute 2 part is crossed out in part and FS.
 68: Flute 1 slur starts at beat 2 in part.
 68-83: Adding overall cresc...
 73: Adding decrescendo
@@ -39,7 +39,7 @@ Flutes
 
 Oboes
 -----
-3-7: This section is crossed out in FS and part.
+3-7: **This section is crossed out in FS and part.
 5: Crescendo only in FS
 14: Decrescendo only in part
 23.3: Oboe 2 decrescendo only in part
