@@ -1,9 +1,3 @@
-TODO
-----
-Resolve Bass Clarinet, Bassoon, and Viola dynamics 38-45
-Resolve Bassoon, Sarrusophone decrescendo 63
-Resolve dynamics 146-152
-
 General
 -------
 78: Fermata placed either on rest after best or on rest on beat depending on player. Replacing with caesura after first eighth note
@@ -514,7 +508,7 @@ Violins II
 127: Decrescendo only in part
 142-143: mf and p only in part
 144: Slur only in FS
-151, 152: Decrescendo at 151 in FS, 151.3-152 in part.
+146-152: *Various discrepancies in dynamics between FS and part. Using combination of Violins II and Violas dynamics.
 158, 160: Slurs on last 2 notes only in FS
 161: First note legato in FS, accent in part. (Violin I has legato in both)
 164: Crescendo only in part
@@ -566,7 +560,7 @@ Violas
 118: Cresc only in part
 127: Decrescendo only in part
 145: Dotted half changed to half + eighth in part
-146-150: Hairpin differences
+146-152: *See notes for Violins II
 147: Fb5 in FS should be Eb5
 148: Legatos and slur only in FS
 152: mf for non-solo only in part. Seems dubious
