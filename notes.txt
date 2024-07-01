@@ -319,7 +319,7 @@ Originally written with bass clef transposing up a fourth (and treble down a fif
 
 Trumpets 1 and 2
 ----------------
-50: Dynamics only in part
+50: Dynamics only in part. Reducing Trumpet 1 ff to f
 50,52: Trumpet 1 accent only in part
 50,52: *Trumpet 2 FS appears to only have dotted quarter E#5 (unclear). Part with half E#5 + quarter F#4 seems to be a correction
 51,53: *Trumpet 2 FS appears to have dotted half note (unclear). Part with dotted + eighth seems to be a correction
@@ -330,9 +330,9 @@ Trumpets 1 and 2
 70: *Trumpet 2 tied D5 replaced with Bb4 in part 
 70-73: **This section for Trumpet 1 only in part
 74-77: mf cresc only in part
-82-85: **Players unspecificied in FS but has singular "sourdine." Section is included in part for Trumpets 1 and 2. Dynamics only in part
+82-85: **Players unspecificied in FS but has singular "sourdine." Section is included in part for Trumpets 1 and 2, Trumpet 2 part written in second hand. Dynamics only in part
 83-85: **Trumpet 1 this note lasts until an eighth note at 84. Trumpet 2 this note lasts only an eighth note.
-128-129: *In part, slurs are added over each phrase, "expressif" is added, and all accents except on the half notes are crossed out. f in FS. Both mf and f in part. Slur and decrescendo at 129 only in part.
+128-129: *In part, slurs are added over each phrase, "expressif" is added, and all accents except on the half notes are crossed out. f in FS. Both mf and f in part. Slur and decrescendo at 129 only in part. "Sans sourdine" is only in part, but next entrance has sourdine in both FS and part.
 131: *Trumpet 2 may need Trumpet in Bb to play E3
 149: *Trumpet 2 F# in FS corrected to G# in part. Adding hairpins sim. 150
 153: *FS has divisi of B3, E4, B4. Trumpet 2 slur seems to lead to B3. Both Trumpets 2 and 3 have B3 in part. Trumpet 3 part most likely a misreading.
@@ -346,7 +346,7 @@ Trumpets 1 and 2
 
 Trumpet 3
 ---------
-50: Dynamics only in part
+50: Dynamics only in part. Reducing ff to f
 50,52: Accent only in part
 51,53: Slur split and marcato only in part
 62: f in FS. ff in part.
@@ -367,7 +367,7 @@ Trombones 1 and 2
 82-85: Dynamics only in part. Adding decrescendo to pp like Trumpet 1.
 82.2: Accent in FS. Legato in part
 83-85: **This chord is held a measure shorter in part, until an eighth note at 84
-128-129: *In part, "expressif" is added, and all accents except on the half note are crossed out. Slur and decrescendo at 129 only in part.
+128-129: *In part, "expressif" is added, and all accents except on the half note are crossed out. Slur and decrescendo at 129 only in part. "Sans sourdine" is only in part, but next entrance has sourdine in both FS and part.
 149: Adding hairpins sim. 150
 149-153: FS has bass clef but part has tenor. Bass clef seems like an unlikely voicing
 165-166: Slur from 165.1 to 166.1, 166.3- in part. Slur only from 166.1- in FS. Using slurring consistent with other trombones.
@@ -386,7 +386,7 @@ Trombone 3
 82-85: Dynamics only in part. Adding decrescendo from p to pp like Trumpet 1.
 82.2: Accent in FS. Legato in part
 83-85: **This chord is held a measure shorter in part, until an eighth note at 84
-128-129: *In part, slur added over 128, "expr" is added, and all accents except on the half notes are crossed out. Decrescendo at 129 in part.
+128-129: *In part, slur added over 128, "expr" is added, and all accents except on the half notes are crossed out. Decrescendo at 129 in part. "Sans sourdine" is only in part, but next entrance has sourdine in both FS and part.
 149: Hairpins sim. 150 only in part.
 161-165: **Part has what the Tuba has in FS (original written over).
 166: Only a decrescendo in FS. Hairpins sim. Trombone 1 165 in part.
@@ -403,7 +403,7 @@ Tuba
 71: mf only in part (second hand)
 78: Adding accent
 83-84: Adding dynamics from other brass
-128-129: Accents crossed out and slurs only in part.
+128-129: *Accents crossed out and slurs only in part. "Sans sourdine" is only in part, but next entrance has sourdine in both FS and part.
 149: ppp in FS. pp in part.
 152: Decrescendo only in FS
 161-165: **Ossia as in part
