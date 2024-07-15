@@ -604,6 +604,7 @@ Violas
 160: Legatos on 2nd and 3rd note, and slur on last 2 notes only in part
 166: ff only in part
 169.3-170.1: Slur only in part (second hand)
+175: p en dehors only in part
 176: 2nd and 3rd part decrescendo only in part
 176-177: 1st part decrescendo adding from Violins I
 
