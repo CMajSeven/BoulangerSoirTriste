@@ -1,5 +1,3 @@
-CHECKPOINT: Check ossias up to timpani
-
 General
 -------
 Dagger = Crossed out in FS and crossed out/not present in part
@@ -9,6 +7,7 @@ Inverted Question Mark: Only in FS and crossed out/not present in part
 78: Fermata placed either on rest after best or on rest on beat depending on player. Replacing with caesura after first eighth note
 78: Based on the phrasing, recasting this as a 1+3 measure for grouping
 83: librement is written like a tempo marking, but is only in the English Horn part
+85: "en récit" around the middle of the measure. Moving to align with Cello Soli
 106-111: "un peu serré" and "rit." are seemingly specifically placed but inconsistent across FS and parts
 135-143: There is a crescendo to "f mais contenu" over the string section, often contradictory to the dynamics of the individual strings.
 153-156: *Different woodwind articulations and dynamics in parts
@@ -16,7 +15,7 @@ Inverted Question Mark: Only in FS and crossed out/not present in part
 Flutes
 ------
 8-19.2: Section is crossed out in FS, but tacet is also crossed out with "une flûte" written over it
-18: Tie missing in part
+18,19: Ties missing in part
 19: p only in FS
 20-22: Slur extends to 22 only in part
 34: pp only in part
@@ -24,6 +23,7 @@ Flutes
 47: *The run begins a sixteenth note earlier in part at beat 2.25. This allows a C# on beat 3 to align with the other parts.
 47-48: Dynamics only in part
 50: **Part has F6+A6. FS has D6+F6. ff in part. f in FS. OSSIA PART ONLY
+57-58: Unclear whether the slur continues to the F. Slur extends to end of previous system, but not leading slur on next system in part.
 59: mf only in part
 61: *The run starts on beat 3 in part.
 65-73: **The flute 2 part is crossed out in part and FS.
@@ -50,9 +50,11 @@ Oboes
 3-7: **This section is crossed out in FS and part.
 5: Crescendo only in FS
 14: Decrescendo only in part
+16-21.1: Oboe 1 part appears written in by second hand in FS and part. Adding dynamics from English Horn
 23.3: Oboe 2 decrescendo only in part
 24: Oboe 1 mf and crossed out p only in part
 46: f only in part. Changing to mf
+46-48: **This section written in second hand, completely covers illegible original.
 48: mf only in part. Slurs only in part. Oboe 2 slur extending into 49 seems dubious
 49: *Oboe 1 C#6 originally E5 in FS. It is actually the first 16th B4 of Oboe 2 is crossed out but this makes little sense. The previous measures are completely covering an older version that would likely transition better into an E.
 50: **Oboe 2 part missing in FS
@@ -91,21 +93,24 @@ English Horn
 22: Adding "soutenu"
 39: # overwritten with a natural (next measure has #) in FS. Natural matches Violins II and Horn 2
 44: Decrescendo only in FS
+47-49: **This section written in second hand, covers largely illegible original. 49 is potentially unison with Horn 1
 48-49: Using crescendo of Flutes and Violins I, which are consistent between parts and FS. FS has crescendo over first 2 beats of 49, seemingly continuing from previous system crescendo that is no longer present. Part has crescendo over all of 49.
 56: Decrescendo only in part
+63-64: Slur only over 63 in FS and part, but extending to match Flute 1
 65-67: **This section is crossed out in FS.
 68: mp only in part
 70: mf only in part
 83: mf only in part
-96: Natural on F missing in FS
+96: Natural on F missing in FS as the Viola has Bb. However, the Viola Solo is written in a second hand in FS and part. In the part, it is covering the English Horn written as a cue and it is unclear whether the cue originally had a B(n) or Bb.
 98: pp only in part
 126: Hairpins only in part
 126.4.5: l.v. tie in FS, tie into eighth note of next measure in part
-149: Last 2 beats crossed out
+149: Last 2 beats crossed out by second hand. The next measures contain only whole rests with no signs of erasure, so the continuation is unclear.
+153: This measure seems to have been added by a second hand in FS. Whole rest still present
 157: Changing dynamic from mf to f to match other woodwinds
 164: Adding decrescendo
 167: Missing tie from last triplet in FS
-168: mp only in part. Normalizing dynamics with bassoons (p)
+168: mp only in part. Normalizing dynamics with clarinets (pp)
 175: pp only in part
 
 Clarinets
@@ -117,8 +122,8 @@ Clarinets
 23-24: **This section for Clarinet 2 crossed out in FS.
 27: Adding decrescendo
 27.1: **Quarter note F crossed out in FS (slur extends over this). Not present in part.
-30-33: mf in part. p in FS. Original slurring (FS slurring) erased. New slurring and articulation added.
-30-38*: Clarinet 2 is unison with 1 in part, but solo is underlined and circled.
+30-33: mf in part. p in FS. Original slur (matching FS) in part broken at 31.1 and 31.3. Tenuto marks added on first 3 notes of 30 and accent added on first note of 31.
+30-38*: Clarinet 2 is unison with 1 in part, but "solo" is underlined and circled.
 34: f only in part
 37: p only in part
 50: ff only in FS
@@ -138,9 +143,9 @@ Clarinets
 127: f and crescendo only in part. Using mf to be consistent with other woodwinds.
 127: Natural on trill missing in FS.
 127-128: Clarinet 2 unison with Clarinet 1 in part (eighth note written over), with slur over 126-128 and soutenu at 127 though which Clarinet 1 does not have.
-141: cresc only in FS
+141: cresc only in FS. Unclear where the crescendo extension line ends. Visible about a beat into 142
 144-145: f and decrescendo only in part
-147: Dotted quarter in FS. Quarter note in part
+146: Dotted quarter in FS. Quarter note in part
 153-156: p and slurred in FS. Slur erased, mf bien accentué with accent on every note in part.
 155-156: cresc. only in FS
 166: Decrescendo only in part
@@ -158,10 +163,11 @@ Originally written in A transposing down a minor third
 11-12: Crescendo only in part
 12.3: Slur split here only in part.
 15: mf only in FS
+15-18.1: Section written in by second hand in FS and part. Original seems to be tacet
 17-18: Crescendo only in FS
 19.2: Slur split here only in FS
 23, 24: Moving f to 23 to match Bassoon 1
-26-28: Dynamics and articulation only in part
+26-28: Section written in by second hand in FS and part. Original seems to be tacet. Dynamics and articulation only in part
 43: # on written F# missing in FS
 43: Adding decrescendo
 50: Adding ff
@@ -174,13 +180,15 @@ Originally written in A transposing down a minor third
 127: Natural on trill missing in FS.
 135: Legato mark only in FS
 136: Crescendo only in FS
+141: Unclear where the crescendo extension line ends. Visible about a beat and a half into 142 in FS and up to 142 in part.
 143-146: Adding slur to be consistent with Clarinets
 145: Adding decrescendo. Tenuto mark only in part
-153-156: mf accentué with tenuto marks in part. p in FS.
+153-156: mf accentué with tenuto marks on every note in part. p in FS.
 153-157: Part slurring matches bassoon slurring more closely.
 155-156: cresc. only in FS
 160.3: b on written Db missing in part
 165-166: Accents missing in part
+166: Decrescendo only in part
 169: mf crossed out with f in part and FS
 170.3.5: Accent only in part
 174: p only in part
@@ -191,16 +199,16 @@ Bassoons 1 and 2
 1: expressif only in part
 18: Adding mf from Bass Clarinet
 18: *Bassoon 2 originally has just a eighth note here (tied to previous measures). In FS, this is overwritten with dotted half note tied with surrounding measures.
+17.2-22: Bassoon 1 written in by second hand in FS and part. Original seems to be tacet
 21: mf only in FS. Adding crescendo
 21-22: Slurring only in part. Slur from previous measures continues to 21.1 only in part.
-25-28: **Original Bassoon 2 part crossed out and replaced with col 1 in part and FS. Accent in measure 27 only in part.
+25-28: **Bassoon 1 written in by second hand in FS and part. Original seems to be tacet. Original Bassoon 2 part crossed out and replaced with col 1 in part and FS. Accent in measure 27 only in part.
 28: Decrescendo only in part
 30: ppp in part (3rd p added afterwards). pp in FS
 37: Dynamics only in part. Adding legato marks like Flute 1
 38: Adding p to Bassoon 2
 50: ff added in part (f not crossed out)
 61: Crescendo only in part
-69: Endpoint of the cresc. extension line unclear. Removing extension line as the entire section is likely to be crescendo
 66: Adding sub.
 74: *Eighth note A#2 added to Bassoon 1 in part
 76.3: Bassoon 2 adding accent
@@ -211,7 +219,8 @@ Bassoons 1 and 2
 134-138: Slurring only in FS
 141: Bassoon 2 p only in FS
 143: Bassoon 1 p only in part
-143-145: **This section for Bassoon 2 is only in the part. 143 marked f. Using dynamics of Clarinets
+143-145: **This section for Bassoon 2 is only in the part. 143 marked f. Using dynamics and articulation of Clarinets.
+144: Decrescendo in part and continutation of decrescendo after system break at 145 in FS but this is not found in similar parts for other instruments
 149-151: mf crossed out in part and replaced with p. Hairpins only in part.
 151: Accent only in part
 153-156: p in FS. mf bien accentué with accent on every note in part.
@@ -261,7 +270,7 @@ Originally written with bass clef transposing up a fourth (and treble down a fif
 81: p and decrescendo only in part
 83-87: *This chord is held 1 measure less in part. 1 measure is crossed out and 1 measure rest added afterwards.
 87: Missing flats across line break in FS
-89: ôtez les sourdines only in part
+89: sans sourdines only in part
 89: Horn 1 p crossed out with mf in part
 93: sf and decrescendo only in part
 96-97: **In part, the whole note at 96 is only an eighth note and the next measure is crossed out.
@@ -361,7 +370,7 @@ Trombones 1 and 2
 -----------------
 52, 54: Respelling #s to enharmonic equivalents in descending chromatic line
 53: Marked marcato in FS.
-66: Trombone 2 "sans nuances" only in part. Hairpins not crossed out but those at 68-69 are. It is unclear in FS whether the hairpins apply to Trombone 2.
+66: Trombone 2 "sans nuances" only in part. Hairpins not crossed out but those at 68-69 are. It is unclear in FS whether the hairpins apply to Trombone 2; hairpins are doubled for Trombone 3 and Tuba but not Trombones 1 and 2.
 70, 72-73: Trombone 1 hairpins only in part
 78: Adding accents
 82-85: Dynamics only in part. Adding decrescendo to pp like Trumpet 1.
@@ -384,7 +393,7 @@ Trombone 3
 67, 69: **Bbs in FS, unison with Horn 1 and Trombone 1. Bns (explicit at 67) in part, octave with English Horn.
 78: Adding accent. ff in FS. f in part
 82-85: Dynamics only in part. Adding decrescendo from p to pp like Trumpet 1.
-82.2: Accent in FS. Legato in part
+82.2: Accent in part. Legato in FS
 83-85: **This chord is held a measure shorter in part, until an eighth note at 84
 128-129: *In part, slur added over 128, "expr" is added, and all accents except on the half notes are crossed out. Decrescendo at 129 in part. "Sans sourdine" is only in part, but next entrance has sourdine in both FS and part.
 149: Hairpins sim. 150 only in part.
@@ -427,7 +436,7 @@ Percussion
 ----------
 26: **Beat 1 Gr. C. is only in part
 27: Accent only in part
-78: Cymbales adding ff
+77-78: Cymbales adding crescendo to ff
 78: *Tam-tam p in FS. f with second-hand fff in part.
 78-86: **Gr. C. ossia as in part (original as in FS crossed out)
 90-98: **Gr. C. ossia as in part (original as in FS crossed out)
@@ -436,24 +445,25 @@ Percussion
 161: f only in part. fff seems more appropriate
 161-167: **Gr. C. ossia as in part (original as in FS crossed out)
 167-168: Adding dynamics from Timpani
+178: p only in part
 
 Celesta
 -------
-107: Last note has an F instead of an E in FS
+107: Last note has an F# instead of an E in FS
 112-125: **Ossia as in part (original as in FS written over)
 175-177: **Ossia as in part
 
 Harp
 ----
 Lowest note D# needs tuning
-39: Missing clef changes to bass clef on both staves in FS
+38: Missing clef changes to bass clef on both staves in FS
 50: **This measure only in part
 81, 83-85: **These measures crossed out in FS and part
 104-105: *D#s tied only in FS.
-106-107: *It is unclear whether these Es are tied in Fs. No tie in part.
+106-107: *It is unclear whether these Es are tied in FS. No tie in part.
 104-111: **The lower staff Cs are only in the part. 
 111: A4 likely missing in first chord based on Celesta
-122.2, 124.2: **Part has Dn4s where there are Fn4s in FS. Dn4 would simplify the pedaling required. Changing En at 122 to Fb like at 124.
+122.2, 124.2: **Part has Dn4s where there are Fn4s in FS. Dn4 would simplify the pedaling required.
 128: Flat on Db missing in FS
 131: Arpeggio only in part
 146-152: FS has treble clef where it should be bass
@@ -492,10 +502,12 @@ Violins I
 82: **"solo" crossed out in part. The staff label in FS is unclear "Von solo [illegible] autres 1o Vs. Adding decrescendo like other solos
 89: p only in FS
 93: mf only in FS
+94: Adding decrescendo
 96: *The dynamics here are inconsistent between the strings. In FS Violins I and II have sf soutenu, Cellos are unmarked, and Double Basses have a crescendo. In the part, Violin II has an sfp with crescendo (seemingly contradicting "soutenu") and Cellos have p with a crescendo.
 97: sf only in FS
 97-98: In FS, divisi with only the lower part playing, but this doesn't make much sense with the "mettez vite la sourdine" instruction
-108-116: *Solo Violin tacet in FS, with div. 1 in part (tacet indication crossed out).
+98: Quarter note in FS, eighth note in part
+108-115: *Solo Violin tacet in FS, with div. 1 in part (tacet indication crossed out).
 118-125: *originally an octave higher in FS and part
 125: **Solo originally dotted half tied into eighth note in next measure. Reduced to half note in both FS and part
 128: Legato only in FS
@@ -540,6 +552,7 @@ Violins II
 126: *The first note of this measure seems entirely crossed out in FS. Only the 2nd and 3rd division are crossed out in part. The part seems more consistent with the changes in the previous measures.
 126: Slur starts from 2.5 in FS, 3 in part
 127: Decrescendo only in part
+140-141: It is unclear whether the crescendo is supposed to apply to only the upper div. or both parts
 142-143: mf and p only in part
 144: Slur only in FS
 146-152: *Various discrepancies in dynamics between FS and part. Using combination of Violins II and Violas dynamics.
@@ -563,6 +576,7 @@ Violas
 15: **Unclear divisi in this measure. In FS, the upper staff only has a single Ab3 quarter note, with 3 F3+Ab3 quarter notes on the lower staff. In part, this is written on one staff with div. seemingly continuing from measure 13.
 15: p overwritten with pp in FS. p in part
 22: Slur over first 2 notes in FS, all 3 in part
+23-24: Respelling Ebs as D#s to agree with Violins I, and G# as Ab to agree with Violins II and prevent confusion in 24
 25: ff only in part. f would seem more appropriate for balance
 25-28: *In part, the div. en 2 seems to have originally been div. en 3 with the double stops split
 28.1: Adding pp based on Violins II
@@ -576,6 +590,7 @@ Violas
 46: mf only in part, seems overly loud
 48: f only in part, seems overly loud
 49: *sfs only in part, on each beat. Unclear whether the sfs apply to both parts of the divisi
+50: Respelling B# as C
 51: *3rd 16th note changed from F# to Fn in part. # is likely an error
 51, 53: Slurring differences
 52: ff only in part
@@ -592,6 +607,7 @@ Violas
 117-121: **(Continuing from previous note) In FS, upper divisi seems to have had the quarter note tremolos crossed out and eighth note beams added. Lower tremolos are no longer crossed out. Part continues same manner of playing as previously
 122-125: **(Continuing from previous note) FS has what the part has. It seems likely that pizz. indication for the lower part is missing.
 118: Cresc only in part
+126: Adding decrescendo
 127: Decrescendo only in part
 144: Crescendo on upper divisi only in part
 145: Dotted half changed to half + eighth in part
@@ -622,7 +638,7 @@ Cellos
 20.3-21: *Lower div. tie only in FS
 21, 23: f only in part. (Crescendo into 25, see note)
 25: f in FS. ff in part
-25-27: Accents only in part. See note at 25
+25-27: Accents only in part, which would match woodwinds. See note at 25
 27: Slur only in part
 30: p in FS. mf in part
 42, 44: Black noteheads on the double stops seem to be later additions. Unclear if black notehead at 44 crossed out in FS
@@ -643,9 +659,9 @@ Cellos
 93: Slur only in part
 94: Decrescendo only in part (second hand)
 95.2, 96, 97: p only in part
-96: *Upper and lower divisi switched between part and FS
 96: *See note for Violins I
 97: Eb in FS. E natural (explicit) in part, likely an error. Slur into 98 only in part
+97-98: *Upper and lower divisi switched between part and FS
 113-123: *Section in FS is overwriting a difficult to read original. Only the revision is in part.
 114-115: Slur only in part
 118-125: The dynamics in the part are much more precise than in FS.
@@ -654,6 +670,7 @@ Cellos
 132-134: Slur extends to 134 only in FS.
 137, 138: Decrescendo at 137 in FS, 138 in part
 138: Adding tenuto from Violins I
+140-141: It is unclear whether the crescendo is supposed to apply to only the upper div. or both parts
 144-148: Divisi sections are switched in part, likely an error
 148: *Unis in part, with both parts playing the last eighth note
 149: Slur split at beat 3 in part.
@@ -687,7 +704,7 @@ Basses
 40: Adding accent
 43: Slur only in part
 45: Adding slur
-46: div. not until 48 in FS, 47 in part. Added in afterwards in both.
+46-47: Upper divisi tremolo added by second hand to FS and part. div. only written at 48
 48: *Lower divisi tremoloing only in part
 49: cresc... only in part
 50: Missing explicit unis in FS
@@ -695,18 +712,21 @@ Basses
 56-57: Accents missing in FS
 58-59: Ties only in part
 58-62: Dynamics and slur only in part
+70-73: This section written by a second hand in FS, covering original (part matches)
 72-73: cresc... only in part
+74: Accent on upper divisi only in FS
 74-77: Hairpin crescendos only in part
 74.3: Lower divisi extraneous dot on eighth note
 75: sf on lower divisi only in part
 76: Slur only in FS
-78: "unis" in FS yet a lower divisi has been added
+78-82: "unis" in FS yet a lower divisi has been added by a second hand
 78.2: Lower divisi p only in part
 78.4: Upper divisi mf only in part
 81: Upper divisi decrescendo only in part
 83-88: *Likely supposed to be only half (div.), but no indication of such in FS or part
 83-97: Slurs only in part
 86: Flat missing on Db in FS
+92: Flat missing on Db in FS
 96: *See note for Violins I
 98: *In FS, this is played by the basses besides the 1er pup. In part, this is played by the 1er pup.
 127: Decrescendo only in part
@@ -716,8 +736,10 @@ Basses
 137: Decrescendo only in part
 139-142: **Upper divisi crossed out in part. Replaced with unis
 142: Decrescendo only in part
+154-160: This section added in by a second hand
 157: Adding cresc
 165: Decrescendo only in FS
+170: Explicit div. missing in FS
 174: Adding decrescendo like Cellos
 
 Dorico Misc
